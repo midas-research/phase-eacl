@@ -137,8 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-*.pkl
-
 .idea/
 runs/
 *.pt
